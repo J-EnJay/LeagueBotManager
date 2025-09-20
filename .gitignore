@@ -1,0 +1,17 @@
+/.idea
+/ai_champions_data_backup.json
+/AI练功房.spec
+/botLists.txt
+/build
+/connect.py
+/dist
+/getAllChampions.py
+/lol.ico
+/LOLBOT2.ico
+/LOL自定义AI练功房
+/LOL自定义AI练功房.spec
+/LOL自定义AI练功房.zip
+/test.py
+/utils.py
+/venv
+/__pycache__

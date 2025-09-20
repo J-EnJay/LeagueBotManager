@@ -1,0 +1,91 @@
+[
+  null,
+  {
+    "TOP": {
+      "champion_id": 78,
+      "name": "圣锤之毅"
+    },
+    "JUNGLE": {
+      "champion_id": 121,
+      "name": "虚空掠夺者"
+    },
+    "MIDDLE": {
+      "champion_id": 68,
+      "name": "机械公敌"
+    },
+    "BOTTOM": {
+      "champion_id": 18,
+      "name": "麦林炮手"
+    },
+    "UTILITY": {
+      "champion_id": 497,
+      "name": "幻翎"
+    }
+  },
+  {
+    "TOP": {
+      "champion_id": 19,
+      "name": "祖安怒兽"
+    },
+    "JUNGLE": {
+      "champion_id": 32,
+      "name": "殇之木乃伊"
+    },
+    "MIDDLE": {
+      "champion_id": 38,
+      "name": "虚空行者"
+    },
+    "BOTTOM": {
+      "champion_id": 18,
+      "name": "麦林炮手"
+    },
+    "UTILITY": {
+      "champion_id": 1,
+      "name": "黑暗之女"
+    }
+  },
+  {
+    "TOP": {
+      "champion_id": 31,
+      "name": "虚空恐惧"
+    },
+    "JUNGLE": {
+      "champion_id": 23,
+      "name": "蛮族之王"
+    },
+    "MIDDLE": {
+      "champion_id": 45,
+      "name": "邪恶小法师"
+    },
+    "BOTTOM": {
+      "champion_id": 67,
+      "name": "暗夜猎手"
+    },
+    "UTILITY": {
+      "champion_id": 53,
+      "name": "蒸汽机器人"
+    }
+  },
+  {
+    "TOP": {
+      "champion_id": 85,
+      "name": "狂暴之心"
+    },
+    "JUNGLE": {
+      "champion_id": 19,
+      "name": "祖安怒兽"
+    },
+    "MIDDLE": {
+      "champion_id": 39,
+      "name": "刀锋舞者"
+    },
+    "BOTTOM": {
+      "champion_id": 18,
+      "name": "麦林炮手"
+    },
+    "UTILITY": {
+      "champion_id": 147,
+      "name": "星籁歌姬"
+    }
+  }
+]

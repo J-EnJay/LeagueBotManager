@@ -1,0 +1,714 @@
+{
+  "1": {
+    "id": 1,
+    "name": "黑暗之女",
+    "alias": "Annie",
+    "title": "安妮",
+    "positions": [
+      "MIDDLE",
+      "UTILITY"
+    ],
+    "enable": 1
+  },
+  "3": {
+    "id": 3,
+    "name": "正义巨像",
+    "alias": "Galio",
+    "title": "加里奥",
+    "positions": [
+      "UTILITY",
+      "MIDDLE"
+    ],
+    "enable": 1
+  },
+  "4": {
+    "id": 4,
+    "name": "卡牌大师",
+    "alias": "TwistedFate",
+    "title": "崔斯特",
+    "positions": [
+      "MIDDLE"
+    ],
+    "enable": 1
+  },
+  "5": {
+    "id": 5,
+    "name": "德邦总管",
+    "alias": "XinZhao",
+    "title": "赵信",
+    "positions": [
+      "JUNGLE",
+      "TOP"
+    ],
+    "enable": 0
+  },
+  "6": {
+    "id": 6,
+    "name": "无畏战车",
+    "alias": "Urgot",
+    "title": "厄加特",
+    "positions": [
+      "TOP"
+    ],
+    "enable": 1
+  },
+  "11": {
+    "id": 11,
+    "name": "无极剑圣",
+    "alias": "MasterYi",
+    "title": "易",
+    "positions": [
+      "JUNGLE"
+    ],
+    "enable": 1
+  },
+  "12": {
+    "id": 12,
+    "name": "牛头酋长",
+    "alias": "Alistar",
+    "title": "阿利斯塔",
+    "positions": [
+      "UTILITY"
+    ],
+    "enable": 1
+  },
+  "15": {
+    "id": 15,
+    "name": "战争女神",
+    "alias": "Sivir",
+    "title": "希维尔",
+    "positions": [
+      "BOTTOM"
+    ],
+    "enable": 1
+  },
+  "16": {
+    "id": 16,
+    "name": "众星之子",
+    "alias": "Soraka",
+    "title": "索拉卡",
+    "positions": [
+      "UTILITY"
+    ],
+    "enable": 1
+  },
+  "18": {
+    "id": 18,
+    "name": "麦林炮手",
+    "alias": "Tristana",
+    "title": "崔丝塔娜",
+    "positions": [
+      "BOTTOM"
+    ],
+    "enable": 1
+  },
+  "19": {
+    "id": 19,
+    "name": "祖安怒兽",
+    "alias": "Warwick",
+    "title": "沃里克",
+    "positions": [
+      "JUNGLE",
+      "TOP"
+    ],
+    "enable": 1
+  },
+  "21": {
+    "id": 21,
+    "name": "赏金猎人",
+    "alias": "MissFortune",
+    "title": "厄运小姐",
+    "positions": [
+      "BOTTOM"
+    ],
+    "enable": 1
+  },
+  "22": {
+    "id": 22,
+    "name": "寒冰射手",
+    "alias": "Ashe",
+    "title": "艾希",
+    "positions": [
+      "BOTTOM"
+    ],
+    "enable": 1
+  },
+  "23": {
+    "id": 23,
+    "name": "蛮族之王",
+    "alias": "Tryndamere",
+    "title": "泰达米尔",
+    "positions": [
+      "JUNGLE",
+      "TOP"
+    ],
+    "enable": 1
+  },
+  "29": {
+    "id": 29,
+    "name": "瘟疫之源",
+    "alias": "Twitch",
+    "title": "图奇",
+    "positions": [
+      "BOTTOM"
+    ],
+    "enable": 1
+  },
+  "31": {
+    "id": 31,
+    "name": "虚空恐惧",
+    "alias": "Chogath",
+    "title": "科加斯",
+    "positions": [
+      "MIDDLE",
+      "TOP"
+    ],
+    "enable": 1
+  },
+  "32": {
+    "id": 32,
+    "name": "殇之木乃伊",
+    "alias": "Amumu",
+    "title": "阿木木",
+    "positions": [
+      "UTILITY",
+      "JUNGLE"
+    ],
+    "enable": 1
+  },
+  "37": {
+    "id": 37,
+    "name": "琴瑟仙女",
+    "alias": "Sona",
+    "title": "娑娜",
+    "positions": [
+      "UTILITY"
+    ],
+    "enable": 1
+  },
+  "38": {
+    "id": 38,
+    "name": "虚空行者",
+    "alias": "Kassadin",
+    "title": "卡萨丁",
+    "positions": [
+      "MIDDLE"
+    ],
+    "enable": 1
+  },
+  "39": {
+    "id": 39,
+    "name": "刀锋舞者",
+    "alias": "Irelia",
+    "title": "艾瑞莉娅",
+    "positions": [
+      "MIDDLE",
+      "TOP"
+    ],
+    "enable": 1
+  },
+  "44": {
+    "id": 44,
+    "name": "瓦洛兰之盾",
+    "alias": "Taric",
+    "title": "塔里克",
+    "positions": [
+      "UTILITY"
+    ],
+    "enable": 1
+  },
+  "45": {
+    "id": 45,
+    "name": "邪恶小法师",
+    "alias": "Veigar",
+    "title": "维迦",
+    "positions": [
+      "MIDDLE"
+    ],
+    "enable": 1
+  },
+  "51": {
+    "id": 51,
+    "name": "皮城女警",
+    "alias": "Caitlyn",
+    "title": "凯特琳",
+    "positions": [
+      "BOTTOM"
+    ],
+    "enable": 1
+  },
+  "53": {
+    "id": 53,
+    "name": "蒸汽机器人",
+    "alias": "Blitzcrank",
+    "title": "布里茨",
+    "positions": [
+      "UTILITY"
+    ],
+    "enable": 1
+  },
+  "54": {
+    "id": 54,
+    "name": "熔岩巨兽",
+    "alias": "Malphite",
+    "title": "墨菲特",
+    "positions": [
+      "UTILITY",
+      "MIDDLE",
+      "TOP"
+    ],
+    "enable": 1
+  },
+  "56": {
+    "id": 56,
+    "name": "永恒梦魇",
+    "alias": "Nocturne",
+    "title": "魔腾",
+    "positions": [
+      "JUNGLE"
+    ],
+    "enable": 1
+  },
+  "57": {
+    "id": 57,
+    "name": "扭曲树精",
+    "alias": "Maokai",
+    "title": "茂凯",
+    "positions": [
+      "UTILITY",
+      "JUNGLE",
+      "TOP"
+    ],
+    "enable": 1
+  },
+  "62": {
+    "id": 62,
+    "name": "齐天大圣",
+    "alias": "MonkeyKing",
+    "title": "孙悟空",
+    "positions": [
+      "JUNGLE",
+      "TOP"
+    ],
+    "enable": 1
+  },
+  "67": {
+    "id": 67,
+    "name": "暗夜猎手",
+    "alias": "Vayne",
+    "title": "薇恩",
+    "positions": [
+      "BOTTOM"
+    ],
+    "enable": 1
+  },
+  "68": {
+    "id": 68,
+    "name": "机械公敌",
+    "alias": "Rumble",
+    "title": "兰博",
+    "positions": [
+      "MIDDLE",
+      "TOP"
+    ],
+    "enable": 1
+  },
+  "69": {
+    "id": 69,
+    "name": "魔蛇之拥",
+    "alias": "Cassiopeia",
+    "title": "卡西奥佩娅",
+    "positions": [
+      "MIDDLE",
+      "TOP"
+    ],
+    "enable": 1
+  },
+  "75": {
+    "id": 75,
+    "name": "沙漠死神",
+    "alias": "Nasus",
+    "title": "内瑟斯",
+    "positions": [
+      "TOP"
+    ],
+    "enable": 1
+  },
+  "78": {
+    "id": 78,
+    "name": "圣锤之毅",
+    "alias": "Poppy",
+    "title": "波比",
+    "positions": [
+      "UTILITY",
+      "JUNGLE",
+      "TOP"
+    ],
+    "enable": 1
+  },
+  "81": {
+    "id": 81,
+    "name": "探险家",
+    "alias": "Ezreal",
+    "title": "伊泽瑞尔",
+    "positions": [
+      "BOTTOM"
+    ],
+    "enable": 1
+  },
+  "82": {
+    "id": 82,
+    "name": "铁铠冥魂",
+    "alias": "Mordekaiser",
+    "title": "莫德凯撒",
+    "positions": [
+      "TOP"
+    ],
+    "enable": 1
+  },
+  "83": {
+    "id": 83,
+    "name": "牧魂人",
+    "alias": "Yorick",
+    "title": "约里克",
+    "positions": [
+      "TOP"
+    ],
+    "enable": 1
+  },
+  "84": {
+    "id": 84,
+    "name": "离群之刺",
+    "alias": "Akali",
+    "title": "阿卡丽",
+    "positions": [
+      "MIDDLE"
+    ],
+    "enable": 1
+  },
+  "85": {
+    "id": 85,
+    "name": "狂暴之心",
+    "alias": "Kennen",
+    "title": "凯南",
+    "positions": [
+      "MIDDLE",
+      "TOP"
+    ],
+    "enable": 1
+  },
+  "86": {
+    "id": 86,
+    "name": "德玛西亚之力",
+    "alias": "Garen",
+    "title": "盖伦",
+    "positions": [
+      "TOP"
+    ],
+    "enable": 1
+  },
+  "89": {
+    "id": 89,
+    "name": "曙光女神",
+    "alias": "Leona",
+    "title": "蕾欧娜",
+    "positions": [
+      "UTILITY"
+    ],
+    "enable": 1
+  },
+  "99": {
+    "id": 99,
+    "name": "光辉女郎",
+    "alias": "Lux",
+    "title": "拉克丝",
+    "positions": [
+      "MIDDLE",
+      "UTILITY"
+    ],
+    "enable": 1
+  },
+  "102": {
+    "id": 102,
+    "name": "龙血武姬",
+    "alias": "Shyvana",
+    "title": "希瓦娜",
+    "positions": [
+      "JUNGLE"
+    ],
+    "enable": 1
+  },
+  "103": {
+    "id": 103,
+    "name": "九尾妖狐",
+    "alias": "Ahri",
+    "title": "阿狸",
+    "positions": [
+      "MIDDLE"
+    ],
+    "enable": 1
+  },
+  "105": {
+    "id": 105,
+    "name": "潮汐海灵",
+    "alias": "Fizz",
+    "title": "菲兹",
+    "positions": [
+      "MIDDLE"
+    ],
+    "enable": 1
+  },
+  "106": {
+    "id": 106,
+    "name": "不灭狂雷",
+    "alias": "Volibear",
+    "title": "沃利贝尔",
+    "positions": [
+      "JUNGLE",
+      "TOP"
+    ],
+    "enable": 1
+  },
+  "110": {
+    "id": 110,
+    "name": "惩戒之箭",
+    "alias": "Varus",
+    "title": "韦鲁斯",
+    "positions": [
+      "BOTTOM"
+    ],
+    "enable": 1
+  },
+  "111": {
+    "id": 111,
+    "name": "深海泰坦",
+    "alias": "Nautilus",
+    "title": "诺提勒斯",
+    "positions": [
+      "UTILITY"
+    ],
+    "enable": 1
+  },
+  "112": {
+    "id": 112,
+    "name": "奥术先驱",
+    "alias": "Viktor",
+    "title": "维克托",
+    "positions": [
+      "MIDDLE"
+    ],
+    "enable": 0
+  },
+  "113": {
+    "id": 113,
+    "name": "北地之怒",
+    "alias": "Sejuani",
+    "title": "瑟庄妮",
+    "positions": [
+      "JUNGLE"
+    ],
+    "enable": 1
+  },
+  "115": {
+    "id": 115,
+    "name": "爆破鬼才",
+    "alias": "Ziggs",
+    "title": "吉格斯",
+    "positions": [
+      "MIDDLE",
+      "UTILITY"
+    ],
+    "enable": 1
+  },
+  "117": {
+    "id": 117,
+    "name": "仙灵女巫",
+    "alias": "Lulu",
+    "title": "璐璐",
+    "positions": [
+      "UTILITY"
+    ],
+    "enable": 1
+  },
+  "120": {
+    "id": 120,
+    "name": "战争之影",
+    "alias": "Hecarim",
+    "title": "赫卡里姆",
+    "positions": [
+      "JUNGLE"
+    ],
+    "enable": 1
+  },
+  "121": {
+    "id": 121,
+    "name": "虚空掠夺者",
+    "alias": "Khazix",
+    "title": "卡兹克",
+    "positions": [
+      "JUNGLE"
+    ],
+    "enable": 1
+  },
+  "122": {
+    "id": 122,
+    "name": "诺克萨斯之手",
+    "alias": "Darius",
+    "title": "德莱厄斯",
+    "positions": [
+      "TOP"
+    ],
+    "enable": 1
+  },
+  "127": {
+    "id": 127,
+    "name": "冰霜女巫",
+    "alias": "Lissandra",
+    "title": "丽桑卓",
+    "positions": [
+      "MIDDLE"
+    ],
+    "enable": 1
+  },
+  "131": {
+    "id": 131,
+    "name": "皎月女神",
+    "alias": "Diana",
+    "title": "黛安娜",
+    "positions": [
+      "MIDDLE",
+      "JUNGLE"
+    ],
+    "enable": 1
+  },
+  "143": {
+    "id": 143,
+    "name": "荆棘之兴",
+    "alias": "Zyra",
+    "title": "婕拉",
+    "positions": [
+      "UTILITY"
+    ],
+    "enable": 1
+  },
+  "145": {
+    "id": 145,
+    "name": "虚空之女",
+    "alias": "Kaisa",
+    "title": "卡莎",
+    "positions": [
+      "BOTTOM"
+    ],
+    "enable": 1
+  },
+  "147": {
+    "id": 147,
+    "name": "星籁歌姬",
+    "alias": "Seraphine",
+    "title": "萨勒芬妮",
+    "positions": [
+      "UTILITY"
+    ],
+    "enable": 1
+  },
+  "201": {
+    "id": 201,
+    "name": "弗雷尔卓德之心",
+    "alias": "Braum",
+    "title": "布隆",
+    "positions": [
+      "UTILITY"
+    ],
+    "enable": 1
+  },
+  "236": {
+    "id": 236,
+    "name": "圣枪游侠",
+    "alias": "Lucian",
+    "title": "卢锡安",
+    "positions": [
+      "BOTTOM"
+    ],
+    "enable": 1
+  },
+  "254": {
+    "id": 254,
+    "name": "皮城执法官",
+    "alias": "Vi",
+    "title": "蔚",
+    "positions": [
+      "JUNGLE"
+    ],
+    "enable": 1
+  },
+  "497": {
+    "id": 497,
+    "name": "幻翎",
+    "alias": "Rakan",
+    "title": "洛",
+    "positions": [
+      "UTILITY"
+    ],
+    "enable": 1
+  },
+  "711": {
+    "id": 711,
+    "name": "愁云使者",
+    "alias": "Vex",
+    "title": "薇古丝",
+    "positions": [
+      "MIDDLE"
+    ],
+    "enable": 1
+  },
+  "875": {
+    "id": 875,
+    "name": "腕豪",
+    "alias": "Sett",
+    "title": "瑟提",
+    "positions": [
+      "TOP"
+    ],
+    "enable": 1
+  },
+  "876": {
+    "id": 876,
+    "name": "含羞蓓蕾",
+    "alias": "Lillia",
+    "title": "莉莉娅",
+    "positions": [
+      "JUNGLE"
+    ],
+    "enable": 1
+  },
+  "888": {
+    "id": 888,
+    "name": "炼金男爵",
+    "alias": "Renata",
+    "title": "烈娜塔 · 戈拉斯克",
+    "positions": [
+      "UTILITY"
+    ],
+    "enable": 1
+  },
+  "901": {
+    "id": 901,
+    "name": "炽炎雏龙",
+    "alias": "Smolder",
+    "title": "斯莫德",
+    "positions": [
+      "BOTTOM"
+    ],
+    "enable": 1
+  },
+  "902": {
+    "id": 902,
+    "name": "明烛",
+    "alias": "Milio",
+    "title": "米利欧",
+    "positions": [
+      "UTILITY"
+    ],
+    "enable": 1
+  }
+}
